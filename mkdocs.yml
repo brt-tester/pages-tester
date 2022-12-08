@@ -1,1 +1,3 @@
 site_name: Pages Tester
+theme:
+    name: material
